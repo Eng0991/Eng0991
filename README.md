@@ -1,11 +1,8 @@
 - 👩‍💻 I'm not a programmer
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascripf
 - 🎯 I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me nazedev@gmail.com
 
 
 
@@ -15,8 +12,3 @@
 
 
 
-
-<!---
-Eng0991/Eng0991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
