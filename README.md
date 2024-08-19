@@ -76,8 +76,8 @@
     
     <main class="main container">
         <section>
-            <h2>About Me</h2>
-            <p>Hello! I'm a Parisian gallery creator with a passion for curating and showcasing art. My work focuses on bringing out the best in every piece and creating immersive experiences for viewers.</p>
+            <h2>property gallery cretors Me</h2>
+            <p>Hello! I'm a web developer my Parisian gallery creator with a passion for curating and showcasing art. My work focuses on bringing out the best in every piece and creating immersive experiences for viewers.</p>
         </section>
         
         <section>
