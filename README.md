@@ -1,5 +1,9 @@
 hei!... my name Engkos the Emeralda resort
 
+
+🏗️ from a real estate company Bandung.West Java.Indonesia.
+
+
 - 👩‍💻 I'm A programmer study web developer Phyton & jango.certificate for date : 4 Aplir 2024.
 - 👀 I’m interested in coding to work as an experienced developer at the company
 - 🌱 I'm currently learning Javascript to make my work easier
