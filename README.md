@@ -10,8 +10,8 @@
 
 - **🥂 from a real estate company Bandung.West Java.Indonesia.**
   
-   **📝 galleryvistalogin@gmail.com or,**
+   📝 galleryvistalogin@gmail.com or,
    
-   **☕ https://take.app/id/gallerycreators**
+   ☕ https://take.app/id/gallerycreators
      
 **🖐️ do you need my help? to make it easier for you when surveying the location & where you are going and what things must be taken care of when applying for approval to purchase your real estate?...send your question to me? When negotiating prices or unit availability, I am ready to help!...always successful thank you?.. 🖐️🖐️bye!.. call me later okey?...🖐️**
