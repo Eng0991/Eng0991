@@ -1,9 +1,7 @@
 
 <h2>My portopolio</h2>
 
-
 ---
-
 <h4>Digital marketing</h4> ✨
 ---
  
