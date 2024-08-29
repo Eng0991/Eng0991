@@ -1,13 +1,13 @@
 
-              **My portopolio**✨
+**My portopolio**
 
 
 ---
 
 <h4>Digital marketing</h4> ✨
 
- ---
- ---
+---
+ 
  
 ✨**Hei!... my name Engkos the Emeralda resort**✨
 
