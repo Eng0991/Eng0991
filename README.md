@@ -11,12 +11,12 @@
         <h1>Engkos The emeralda Resort</h1>
         <nav>
             <ul>
-                <li><a href="#about">Alamat </a></li>
+                <li><a href="#about">Alamat Jl.Tipar barat Rt.03/014 Desa.Laksanamekar. Kec. Padalarang. kode pos : 40553. Kab. Bandung barat. Profinsi. Jawa barat. Negara : Indonesia</a></li>
                
- <li>Digital marketing Real Estate<a href="#portfolio">My Portopolio</a></li><li> Keahlian.
+ <li>Digital marketing Real Estate<a href="# my portopolio">My Portopolio</a></li><li> Keahlian.
                digital marketing,
-                  Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li>  <a 
-                                                                                                                                    href="#contact">Kontak/Wa : 089685224968
+                  Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li>  <a href="#contact">Kontak/Wa : 089685224968.<a>https://take app/id/gallerycreators</a>
+                   https://take.app/id/gallerycreators
                   </a></li>
             </ul>
         </nav>
