@@ -1,14 +1,4 @@
-*Di bawah ini adalah langkah-langkah dasar serta contoh kode untuk membuat portofolio sederhana dengan HTML dan CSS.*
-
-*Langkah 1:*
- Buat Struktur Dasar HTML
-
- *Buat file bernama `index.html` dan tambahkan kode berikut:*
-
-
-:*html*
-
- *<!DOCTYPE html>* 
+ <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -21,19 +11,23 @@
         <h1>Engkos The emeralda Resort</h1>
         <nav>
             <ul>
-                <li><a href="#about">saya seorang digital marketing perusahaan real estate dibandung saya sedang belajar mengembangkan kemampuan dan pengetahuan tentang digital marketing</a></li>
-                <li><a href="#portfolio">Pasar adalah suatu tempat dimana setiap orang dapat menjual atau membeli product baik pasar digital atau pasar konfensional barang,jasa,ataupun kemampuan menganalisa suatu objek atau benda dan dapat di tingkatkan atau diturunkan kwalitasnya untuk kebutuban atau persedian yang dapat digunakan sesuai funsinya dan menjadi kebutuhan bagi setiap orang yang mengambil funsi dan keggunaanya secara nerkelanjutan. </a></li>
-                <li><a href="#contact">Kontak</a></li>
+                <li><a href="#about">Alamat </a></li>
+               
+ <li>Digital marketing Real Estate<a href="#portfolio">My Portopolio</a></li><li> Keahlian.
+               digital marketing,
+                  Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li>  <a 
+                                                                                                                                    href="#contact">Kontak/Wa : 089685224968
+                  </a></li>
             </ul>
         </nav>
     </header>
     
-    <section id="about">
+   <section id="about">
         <h2>Tentang Saya</h2>
         <p>Deskripsi singkat tentang diri Anda.</p>
     </section>
     
-    <section id="portfolio">
+   <section id="portfolio">
         <h2>Portofolio</h2>
         <div class="portfolio-item">
             <h3>Proyek 1</h3>
@@ -43,13 +37,13 @@
             <h3>Proyek 2</h3>
             <p>Deskripsi proyek 2.</p>
         </div>
-        <!-- Tambahkan lebih banyak item portofolio sesuai kebutuhan -->
+    <!-- Tambahkan lebih banyak item portofolio sesuai kebutuhan -->
     </section>
     
     <section id="contact">
         <h2>Kontak</h2>
-        <p>Alamat email: <a href="mailto:email@example.com">email@example.com</a></p>
-        <!-- Tambahkan informasi kontak lainnya jika diperlukan -->
+        <p>Alamat email: ek619204@gmail.com<a href="mailto:email@example.com">email@example.com</a></p>
+        <!---->
     </section>
     
     <footer>
@@ -57,23 +51,16 @@
     </footer>
 </body>
 </html>
-```
- *Langkah 2:* 
-
-Tambahkan Styling dengan CSS
-
-Buat file bernama `styles.css` dan tambahkan kode berikut:
-
-```css
+css
 body {
-    font-family: Arial, sans-serif;
+    font-family: verdana ;
     margin: 0;
     padding: 0;
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: green;
     padding: 10px 0;
     text-align: center;
 }
