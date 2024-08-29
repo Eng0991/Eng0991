@@ -16,7 +16,7 @@
  <li>Digital marketing Real Estate<a href="# my portopolio">My Portopolio</a></li><li> Keahlian.
                digital marketing,
                   Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li>  <a href="#contact">Kontak/Wa : 089685224968.<a>https://take app/id/gallerycreators</a>
-                   https://take.app/id/gallerycreators
+                   
                   </a></li>
             </ul>
         </nav>
