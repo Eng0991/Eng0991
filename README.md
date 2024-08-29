@@ -1,15 +1,14 @@
 
 **My portopolio**✨
+
+---
 ---
 
-✨ <h3>Digital marketing</h3> ✨
+<h4>Digital marketing</h4> ✨
 
  ---
-*oleh*
----
-**<h5> Engkos The Emeralda Resort</h5>**
----
-
+ ---
+ 
 ✨**Hei!... my name Engkos the Emeralda resort**✨
 
 -  **👩‍💻 I'm A programmer study web developer Phyton & jango.certificate for date : 4 Aplir 2024.**
