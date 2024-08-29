@@ -19,8 +19,6 @@
                    
                    
                    
-                   
-                   
-<a>https://take app/id/gallerycreators</a>
+ <a>https://takeapp/id/gallerycreators</a>
                    
                   
