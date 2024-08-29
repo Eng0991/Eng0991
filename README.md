@@ -28,7 +28,8 @@
 **<h2>AREA THE EMERALDA RESORT</h2>**
 ---
 
-![Screenshot_20240612-174305.png](https://github.com/user-attachments/assets/3fa4e788-a16c-4431-b577-65d2e615fb67)
+![Screenshot_20240724-081615.png](https://github.com/user-attachments/assets/59935a91-a66f-4e0a-9158-71743003e520)
+
 
 ---
 
