@@ -1,6 +1,8 @@
+
+
 **Hei!... my name Engkos the Emeralda resort**
 
-
+IMG-20240828-WA0006.jpg
 
 -  **👩‍💻 I'm A programmer study web developer Phyton & jango.certificate for date : 4 Aplir 2024.**
 -  **👀 I’m interested in coding to work as an experienced developer at the company**
@@ -13,5 +15,7 @@
    📝 galleryvistalogin@gmail.com or,
    
    ☕ https://take.app/id/gallerycreators
+
+![Screenshot_20240612-174305.png](https://github.com/user-attachments/assets/3fa4e788-a16c-4431-b577-65d2e615fb67)
      
 **🖐️ do you need my help? to make it easier for you when surveying the location & where you are going and what things must be taken care of when applying for approval to purchase your real estate?...send your question to me? When negotiating prices or unit availability, I am ready to help!...always successful thank you?.. 🖐️🖐️bye!.. call me later okey?...🖐️**
