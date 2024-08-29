@@ -1,4 +1,4 @@
-
+Lo
 **My portopolio**✨
 
 ---
@@ -30,7 +30,7 @@
 
 ![Screenshot_20240612-174305.png](https://github.com/user-attachments/assets/3fa4e788-a16c-4431-b577-65d2e615fb67)
 
-Ok---
+---
 
 ✨**🖐️ do you need my help? to make it easier for you when surveying the location & where you are going and what things must be taken care of when applying for approval to purchase your real estate?...send your question to me? When negotiating prices or unit availability, I am ready to help!...always successful thank you?.. 🖐️🖐️bye!.. call me later okey?...🖐️**✨
 
