@@ -1,5 +1,5 @@
 **<h4> Engkos The Emeralda Resort</h4>**
-- My company For Yanproland Developer
+- My company From Yanproland Developer
 - Yanproland Club
 
 ---
