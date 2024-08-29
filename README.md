@@ -18,6 +18,6 @@
                   Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li>  <a href="#contact">Kontak/Wa : 089685224968.
                    
                    
-                    <a>https://takeapp/id/gallerycreators</a>
+                    https://takeapp/id/gallerycreators
                    
                   
