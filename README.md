@@ -31,8 +31,9 @@ yang mejadi tempat terkumpulnya product atau Jasa baik pasar digital maupun konp
 • Tiktok ads
 • Canva.
 
-**sebagai mana membangun sebuah web akan lebih mudah dikembangkan bila memiliki kemampun pengembanganya.
-maka pemasaran memiliki pengembangan yan profesional dalam ranahnya.<title>portopolio saya </title>**
+**sebagai mana membangun sebuah web akan lebih mudah dikembangkan bila membutuhkan pengembanganya yang effectif**
+
+<title>portopolio saya </title>**
 
 https://take.app/id/gallerycreators
 
