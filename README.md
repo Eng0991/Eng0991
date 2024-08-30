@@ -2,14 +2,14 @@
 <title>protopolio</title>
 
 ENGKOS THE EMERALDA RESORT
-Digital marketing.
+-Digital marketing.
 
 Alamat : Jl.Tipar barat Rt.03/14
 Desa.Laksamekar.Kecamagan:Padalarang.Kabupaten : Bandung barat.Kode pos :40553.Profinsi: Jawa barat.Indonesia.
 
-Digital marketing Bila di perdalam sangat menarik dan luarbiasa,pengetahuan tengtang ads,web developer,strategi penjualan,penulisan,Ux/UX dan pengeditan,sekalipun banyak memeraskeringat dan pikiran untuk sebuah tujuan atau rekomendasi product konsumen,namun dari sisi lain memberi hambaran bahwa dunia marketing adalah wajib dimiliki bagi perorangan atau organisasi tertentu.membangun skill dan imagenasi dalam sebuah karya atau kemampuan marketing memiliki arah  yang lebih personal.dalam dimensi pasarkearah pencapyannya.
+Digital marketing Bila di perdalam sangat menarik dan luarbiasa,pengetahuan tengtang ads,web developer,strategi penjualan,penulisan,Ux/UX kwalitas bahan atau product pengeditan dan digital marketing ,sekalipun sangat memeraskeringat dan pikiran untuk sebuah product atau Jasa,namun dari sisi lain memberi kontribusi yang lengkap ifisien bahwa ilmu marketing harus dimiliki bagi perorangan atau organisasi tertentu sebuah prosuct, membangun skill dan imagenasi sebuah prosuct marketing akan sangat memiliki arah  yang lebih dipersonal.dan lebih pasti dan relevan atau terarah.
 
-pasar adalah media yang mejadi tempat penyimpanan product.baik pasar digital maupun konpesional.
+• pasar adalah media yang mejadi tempat terkumpulnya product atau Jasa baik pasar digital maupun konpesional.
 
 <a>memahami sisitem pemasaran atau digital marketing wajib dimiliki bagi setiap perorangan atau organisasi yang sedang mendalami product mana yang sangat diminati dan paling dicari.sehingga akan lebih bisa memberi Keuntungan yang lebih cepat
 
@@ -17,7 +17,7 @@ pasar adalah media yang mejadi tempat penyimpanan product.baik pasar digital mau
 
 kenapa demikian pentingnya strategi pemasaran,sebab sebuah product bila tidak diikuti dengan system dan penempatan tidak akan dapat terkontrol dengan baik.
 
-<h4>Keahlian</h4>
+<h4>SKILL</h4>
 
 • Digital marketing
 • Copywriting
