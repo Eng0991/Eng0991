@@ -16,6 +16,6 @@
  <li>Digital marketing Real Estate<a href="# my portopolio">My Portopolio</a></li><li> Keahlian.
                digital marketing,
                   Copywriting,  Ms.office,   desain grafis,  Canva,   Feecbook ads,   Instagram ads,  Tiktok ads,  Auto CAD,</li><a
-               href="#contact">https://takeapp/id/gallerycreators
+               href="#contact">https://take.app/id/gallerycreators
                    
                   
