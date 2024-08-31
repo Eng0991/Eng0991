@@ -48,7 +48,7 @@ Gallery marketing The Emeralda Resort
 - Gathering
 - Benefit
 
-**mapp**
+**mapp & exsample**
 
 The Emeralda Resort.
 https://maps.app.goo.gl/wBnheVot5DMbDeiz6
