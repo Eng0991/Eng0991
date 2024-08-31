@@ -5,14 +5,14 @@
 Consultan real estate
 ---
 
-**Alamat :** Jl.Tipar barat Rt.03/14
+- **Alamat :** Jl.Tipar barat Rt.03/14
 Desa.Laksamekar.Kecamagan:Padalarang.Kabupaten : Bandung barat.Kode pos :40553.Profinsi: Jawa barat.Indonesia.
 ---
-**SKILL**
+- **SKILL**
 •digital marketing,Copywriting,Ms.office,Desain grafis,Web developer,Auto CAD.CANVA,game.
 ---
 
- **Tentang penulis**
+ - **Tentang penulis**
 Ketika saya menjumpai sebuah layanan dalam konsep yang luas tentang sebuah metode atau sarana atau media penyampaian kebanyakan orang lebih memilih metode penyampaian yang praktis dan mudah dijumpai  untuk media penyampaianya,seperti ads dalam pengelolaan pemasaranya,saya mana maksud dan tujuan saya dalam mengunakan metode penyampaian agar mudah dikunjungi dimesin pencari, dengan membuat tulisan singkat ini,agar mudah dijumpai semua orang yang sedang mencari dan mempertimbangkan,product Real Estate incaranya.
 ---
 <h4>Bio data singkat tentang perusahaan dan layanan the Emeralda resort Real Estate Lokal Bandung Raya</h4>
