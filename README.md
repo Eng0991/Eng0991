@@ -19,7 +19,7 @@ The Emeralda resort adalah product Real estate,dimana sebuah nama bagi sebuah ka
 dan cabang plosoknya yang belum disebutkan disini.yang bisa direkomendasikan, kawasan strategis dan memiliki sarana lengkap,seperti kolam renang area,kolam renang keluarga,water world,pembelanjaan atau mall,restoran, rumah sakit,pendidikan atau education,keamanan,Security sytem atau CCTV, akses lokasi dan mudah kemana saja.tentunya sangat penting dan harus diprioritaskan didunia real estate bagi sebagian kebutuhan kelayakan standar sarana dan layanan,seperti consultan real estate,agent /sales marketing,dengan proses komunikasi informasi yang memberi berita perusahaan
 resmi,konsultasi sertifikat,layanan,benefit,lokasi,dll,arsitekture,productaktifitas lapangan atau teknik sipil dan aktifis bangunan, administrasi marketing agar sebuah layanan setiap pelanggan dapat serentak di konfirmasi,atau lebih cepat dan tidak mengantri pada satu titik.tentu pengembangan layanan ini sangat berperan penting agar layanan proses kepemilikan rumah hunianya sesuai dengan target pasar,dan kepuasan pelanggan sebagai prioritas yang sangat diutamakan,
 
-**memahami system pemasaran atau digital marketing** wajib dimiliki bagi setiap perorangan atau organisasi yang sedang mencara product mana yang sedang tren dan paling dicari dan tidak ketinggalan jaman informasi trent dan friendly jaman now.
+
 
 **Product**
 
@@ -43,10 +43,10 @@ jatihandap
 **Fasilitas**
 
 Gallery marketing The Emeralda Resort
-layanan konsumen
-surveylokasi
-Gathering
-Benefit
+- layanan konsumen,
+- surveylokasi
+- Gathering
+- Benefit
 
 **mapp**
 
