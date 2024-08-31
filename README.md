@@ -1,12 +1,12 @@
-  Real estate consultant
+  REAL ESTARE COUNSULTANT
 ---
  **@ENGKOS THE EMERALDA RESORT**
  Real estate consultant 
 --- 
 
-**Address:**
+**ADDRESS**
 
- Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.
+ : Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.
  --- 
 
 **SKILLS:** 
@@ -14,7 +14,7 @@
 digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games. 
 --- 
 
-**About the author:** 
+**ABOUT THE OTHERS:** 
 
 When I come across a service in the broad concept of a method or means or delivery medium, most people prefer delivery methods that are practical and easy to find for the delivery media, such as ads in marketing management. Where is my aim and objective in using the delivery method so that it is easy to visit? in search engines, by making this short article, so that it can be easily found by everyone who is looking for and considering the Real Estate product they are looking for or my profile. 
 --- 
@@ -32,7 +32,7 @@ Brief Bio Data about the company and services of The Emeralda Resort Real Estate
  Clusters: Kingston Park, Janet park, Beryl park, Royal park, plots.
 ---
  
-- **SERVICE* 
+**SERVICE* 
 
 consultation on orders, units, product availability, promotions, location, facilities, price per unit. 
 --- 
@@ -43,19 +43,19 @@ consultation on orders, units, product availability, promotions, location, facil
 ---
 
 
- **Branch**
+ **BRANDS**
 
  - Padalarang 
 - kertajati
  - jatihandap 
 --- 
 
-**Facility** 
+**FASILLITY** 
 
 Marketing gallery for The Emeralda Resort
 
- - consumer service, 
-- location survey
+ - Consumer service, 
+- Lacation survey
  - Gatherings
  - Benefits 
 ---  
@@ -63,11 +63,11 @@ Marketing gallery for The Emeralda Resort
  **AGENT CONTACT** 
 
 Engkos
- contact / WhatsApp: 089685224968
+ Contact / WhatsApp: 089685224968
 
  **Other information**
 
- **click the link below** 
+ **Click the link below** 
 
 https://take.app/id/gallerycreators 
 --- 
@@ -78,7 +78,7 @@ https://take.app/id/gallerycreators
 **The Emeralda Resort**
  https://maps.app.goo.gl/wBnheVot5DMbDeiz6
 
- **gallery marketing**
+ **Gallery marketing**
 
 https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8 
 
@@ -87,11 +87,11 @@ https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8
 https://maps.app.goo.gl/bTpMSnyy1usGwDMX6 
 ---
 Thank you 🙏...BYE!...
- ---
+---
 
 <h5>Brief portfolio for the Emeralda resort Real estate Services
 by: Engkos</h5>
- ---
+ 
 
 
 
