@@ -1,41 +1,73 @@
 
-<title>protopolio</title>
+<title>protopolio consultan</title>
 
 **ENGKOS THE EMERALDA RESORT**
-Digital marketing.
+Consultan Digital marketing.
 
 **Alamat :** Jl.Tipar barat Rt.03/14
 Desa.Laksamekar.Kecamagan:Padalarang.Kabupaten : Bandung barat.Kode pos :40553.Profinsi: Jawa barat.Indonesia.
 
-**Tentang penulis**
-Digital marketing Bila di perdalam sangat menarik dan luarbiasa,pengetahuan tengtang ads,web developer,strategi penjualan,penulisan,Ux/UX kwalitas bahan atau product pengeditan dan digital marketing ,sekalipun sangat memeraskeringat dan pikiran untuk sebuah product atau Jasa,namun dari sisi lain memberi kontribusi yang lengkap ifisien bahwa ilmu marketing harus dimiliki bagi perorangan atau organisasi tertentu sebuah prosuct, membangun skill dan imagenasi sebuah prosuct marketing akan sangat memiliki arah  yang lebih dipersonal.dan lebih pasti dan relevan atau terarah.
+**SKILL**
+•digital marketing,Copywriting,Ms.office,Desain grafis,Web developer,Auto CAD.CANVA,game.
 
-**• pasar adalah media**
-yang mejadi tempat terkumpulnya product atau Jasa baik pasar digital maupun konpesional.
+ **Tentang penulis**
+Ketika saya menjumpai sebuah layanan dalam konsep yang luas tentang sebuah metode atau sarana atau media penyampaian kebanyakan orang lebih memilih metode penyampaian yang praktis dan mudah dijumpai  untuk media penyampaianya,seperti ads dalam pengelolaan pemasaranya,saya mana maksud dan tujuan saya dalam mengunakan metode penyampaian agar mudah dikunjungi dimesin pencari, dengan membuat tulisan singkat ini,agar mudah dijumpai semua orang yang sedang mencari dan mempertimbangkan,product Real Estate incaranya.
 
-**memahami sisitem pemasaran atau digital marketing** wajib dimiliki bagi setiap perorangan atau organisasi yang sedang mendalami product mana yang sangat diminati dan paling dicari.sehingga akan lebih bisa memberi Keuntungan yang lebih cepat
+<h4>Bio data singkat tentang perusahaan dan layanan the Emeralda resort Real Estate Lokal Bandung Raya</h4>
 
-**media ads mana yang lebih banyak digunaka**sehinga lebih memungkinkan **pasar yang tepat** untuk product yang ditawarkan.
+The Emeralda resort adalah product Real estate,dimana sebuah nama bagi sebuah kawasan Real estate di Bandung,yang memiliki cabang atau tempat hampir di setiap plosok dibandung,kawasan yang dicakupnya seperti Bandung barat,bandung timur 
+dan cabang plosoknya yang belum disebutkan disini.yang bisa direkomendasikan, kawasan strategis dan memiliki sarana lengkap,seperti kolam renang area,kolam renang keluarga,water world,pembelanjaan atau mall,restoran, rumah sakit,pendidikan atau education,keamanan,Security sytem atau CCTV, akses lokasi dan mudah kemana saja.tentunya sangat penting dan harus diprioritaskan didunia real estate bagi sebagian kebutuhan kelayakan standar sarana dan layanan,seperti consultan real estate,agent /sales marketing,dengan proses komunikasi informasi yang memberi berita perusahaan
+resmi,konsultasi sertifikat,layanan,benefit,lokasi,dll,arsitekture,productaktifitas lapangan atau teknik sipil dan aktifis bangunan, administrasi marketing agar sebuah layanan setiap pelanggan dapat serentak di konfirmasi,atau lebih cepat dan tidak mengantri pada satu titik.tentu pengembangan layanan ini sangat berperan penting agar layanan proses kepemilikan rumah hunianya sesuai dengan target pasar,dan kepuasan pelanggan sebagai prioritas yang sangat diutamakan,
 
-**kenapa demikian pentingnya strategi pemasaran,sebab** sebuah product bila tidak diikuti dengan system dan penempatan tidak akan dapat terkontrol dengan baik.
+**memahami system pemasaran atau digital marketing** wajib dimiliki bagi setiap perorangan atau organisasi yang sedang mencara product mana yang sedang tren dan paling dicari dan tidak ketinggalan jaman informasi trent dan friendly jaman now.
 
-<h4>SKILL</h4>
+**Product**
 
-• Digital marketing
-• Copywriting
-• Ms.office
-• desain grafis
-• Auto CAD
-• Feecbook ads
-• instagram ads
-• Tiktok ads
-• Canva.
+Cluster:
+Kingston Park,Janet park,Beryl park,Royal park,kavling.
 
-**sebagai mana membangun sebuah web akan lebih mudah dikembangkan bila membutuhkan pengembanganya yang effectif**
+**Layanan**
 
-<title>portopolio saya </title>**
+konsultasi pemesanan, unit,ketersedian product,promo,lokasi,sarana,Harga perunit.
+
+**sarana**
+
+**|| akses lokasi ||area strategis || CCTV, 1×24 Jam || area hijau || Jogging Track || Mushola || cargging stasiin car || water world || swimming area || mall ||**
+
+**Cabang**
+
+Padalarang 
+kertajati
+jatihandap
+
+**Fasilitas**
+
+Gallery marketing The Emeralda Resort
+layanan konsumen
+surveylokasi
+Gathering
+Benefit
+
+**mapp**
+https://maps.app.goo.gl/wBnheVot5DMbDeiz6
+
+**Kontak agent**
+
+Engkos 
+kontak / Whatsaap : 089685224968
+
+
+**infomasi Lain**
+
+**kilk tautan dibawah ini**
 
 https://take.app/id/gallerycreators
+
+
+
+Terima kasih 🙏...
+
+**portopolio Singkat untuk Layanan Real estate the Emeralda resort**
 
 
 
