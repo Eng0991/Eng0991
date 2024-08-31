@@ -81,7 +81,7 @@ https://take.app/id/gallerycreators
 - Terima kasih 🙏...
 
 - **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
-oleh: Engkos 
+- oleh: Engkos 
 ---
 
 
