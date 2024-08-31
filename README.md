@@ -9,7 +9,7 @@ Consultan real estate
 Desa.Laksamekar.Kecamagan:Padalarang.Kabupaten : Bandung barat.Kode pos :40553.Profinsi: Jawa barat.Indonesia.
 ---
 - **SKILL**
-•digital marketing,Copywriting,Ms.office,Desain grafis,Web developer,Auto CAD.CANVA,game.
+- digital marketing,Copywriting,Ms.office,Desain grafis,Web developer,Auto CAD.CANVA,game.
 ---
 
  - **Tentang penulis**
