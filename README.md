@@ -93,7 +93,9 @@ https://take.app/id/gallerycreators
 --- 
 
 Thank you 🙏...
- **Brief portfolio for the Emeralda resort Real estate Services**
+ ---
+
+**Brief portfolio for the Emeralda resort Real estate Services**
 by: Engkos
  ---
 
