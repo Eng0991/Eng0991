@@ -1,88 +1,47 @@
-- Consultan Real estate
+- Real estate consultant
+ **@ENGKOS THE EMERALDA RESORT**
+ Real estate consultant 
+--- 
 
+- **Address:**
 
-**@ENGKOS THE EMERALDA RESORT**
-Consultan real estate
----
+ Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.
+ --- 
 
-- **Alamat :** Jl.Tipar barat Rt.03/14
-Desa.Laksamekar.Kecamagan:Padalarang.Kabupaten : Bandung barat.Kode pos :40553.Profinsi: Jawa barat.Indonesia.
----
+**SKILLS:** 
 
- **SKILL:**
- digital marketing,Copywriting,Ms.office,Desain grafis,Web developer,Auto CAD.CANVA,game.
----
+digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games. --- 
 
- - **Tentang penulis:**
- Ketika saya menjumpai sebuah layanan dalam konsep yang luas tentang sebuah metode atau sarana atau media penyampaian kebanyakan orang lebih memilih metode penyampaian yang praktis dan mudah dijumpai  untuk media penyampaianya,seperti ads dalam pengelolaan pemasaranya,Dimana maksud dan tujuan saya dalam mengunakan metode penyampaian agar mudah dikunjungi dimesin pencari, dengan membuat tulisan singkat ini,agar mudah dijumpai semua orang yang sedang mencari dan mempertimbangkan,product Real Estate incaranya atau profil saya.
----
+- **About the author:** 
 
-Bio Data Singkat tentang perusahaan dan layanan The Emeralda Resort Real Estate Lokal Bandung Raya untuk Negosiasi,Konfirmasi dan Konsultasi.
----
+When I come across a service in the broad concept of a method or means or delivery medium, most people prefer delivery methods that are practical and easy to find for the delivery media, such as ads in marketing management. Where is my aim and objective in using the delivery method so that it is easy to visit? in search engines, by making this short article, so that it can be easily found by everyone who is looking for and considering the Real Estate product they are looking for or my profile. 
+--- 
 
- The Emeralda resort adalah product Real estate,dimana sebuah nama bagi sebuah kawasan Real estate di Bandung,yang memiliki cabang atau tempat hampir di setiap plosok dibandung,kawasan yang dicakupnya seperti Bandung barat,bandung timur 
-dan cabang plosoknya yang belum disebutkan disini.yang bisa direkomendasikan, kawasan strategis dan memiliki sarana lengkap,seperti kolam renang area,kolam renang keluarga,water world,pembelanjaan atau mall,restoran, rumah sakit,pendidikan atau education,keamanan,Security sytem atau CCTV, akses lokasi dan mudah kemana saja.tentunya sangat penting dan harus diprioritaskan didunia real estate bagi sebagian kebutuhan kelayakan standar sarana dan layanan,seperti consultan real estate,agent /sales marketing,dengan proses komunikasi informasi yang memberi berita perusahaan
-resmi,konsultasi sertifikat,layanan,benefit,lokasi,dll,arsitekture,productaktifitas lapangan atau teknik sipil dan aktifis bangunan, administrasi marketing agar sebuah layanan setiap pelanggan dapat serentak di konfirmasi,atau lebih cepat dan tidak mengantri pada satu titik.tentu pengembangan layanan ini sangat berperan penting agar layanan proses kepemilikan rumah hunianya sesuai dengan target pasar,dan kepuasan pelanggan sebagai prioritas yang sangat diutamakan,
----
+Brief Bio Data about the company and services of The Emeralda Resort Real Estate Local Bandung Raya for Negotiations, Confirmations and Consultations. ---
 
+ The Emeralda resort is a real estate product, which is the name for a real estate area in Bandung, which has branches or locations in almost every corner of Bandung, the areas it covers include West Bandung, East Bandung and its local branches which have not been mentioned here. Which can be recommended, strategic areas and have complete facilities, such as swimming pool areas, family swimming pools, water world, shopping malls, restaurants, hospitals, education, security, security systems or CCTV , location and easy access to anywhere. Of course it is very important and must be prioritized in the world of real estate for some needs for standard suitability of facilities and services, such as real estate consultants, marketing agents/sales, with information communication processes that provide company news official, certificate consultation, services, benefits, location, etc., architecture, product field activities or civil engineering and building activities, marketing administration so that a service for each customer can be confirmed simultaneously, or more quickly and not queue at one point. Of course the development of this service plays a very important role so that the residential home ownership process services are in line with the target market, and customer satisfaction is a very high priority, --- - 
 
-- **Product**
+**Product**
 
-Cluster:
-Kingston Park,Janet park,Beryl park,Royal park,kavling.
----
-- **Layanan**
+ Clusters: Kingston Park, Janet park, Beryl park, Royal park, plots. --- - **Service** consultation on orders, units, product availability, promotions, location, facilities, price per unit. --- - 
+**means** 
 
-konsultasi pemesanan, unit,ketersedian product,promo,lokasi,sarana,Harga perunit.
----
-- **sarana**
+**|| location access ||strategic area || CCTV, 1×24 Hours || green area || Jogging Track || Prayer room || Cargging car station || waterworld || swimming area || mall ||** --- **Branch** - Padalarang - kertajati - jatihandap --- 
 
-**|| akses lokasi ||area strategis || CCTV, 1×24 Jam || area hijau || Jogging Track || Mushola || cargging stasiin car || water world || swimming area || mall ||**
----
-**Cabang**
+**Facility** 
 
-- Padalarang 
-- kertajati
-- jatihandap
----
- **Fasilitas**
+Marketing gallery for The Emeralda Resort - consumer service, - location survey - Gatherings - Benefits 
+--- 
 
-Gallery marketing The Emeralda Resort
-- layanan konsumen,
-- surveylokasi
-- Gathering
-- Benefit
----
-.**mapp & exsample**
+**mapp & example** 
 
-The Emeralda Resort.
-https://maps.app.goo.gl/wBnheVot5DMbDeiz6
+ Emeralda Resort. https://maps.app.goo.gl/wBnheVot5DMbDeiz6 gallery marketing. https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8 Example House.. https://maps.app.goo.gl/bTpMSnyy1usGwDMX6 ---
 
-gallery marketing.
-https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8
-
-Rumah Contoh..
-https://maps.app.goo.gl/bTpMSnyy1usGwDMX6
----
- **Kontak agent**
-
-Engkos 
-kontak / Whatsaap : 089685224968
-
-
- **infomasi Lain**
-
-**kilk tautan dibawah ini**
-
-https://take.app/id/gallerycreators
-
----
-
- Terima kasih 🙏...
-
- **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
-- oleh: Engkos 
----
+ **Agent contact** 
+Engage contact / WhatsApp: 089685224968
+ **Other information**
+ **click the link below** https://take.app/id/gallerycreators --- 
+Thank you 🙏... **Brief portfolio for the Emeralda resort Real estate Services** - by: Engkos ---
 
 
 
