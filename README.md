@@ -63,24 +63,9 @@ Marketing gallery for The Emeralda Resort
 - location survey
  - Gatherings
  - Benefits 
---- 
+---  
 
-**mapp & example** 
-
-
-The Emeralda Resort.
- https://maps.app.goo.gl/wBnheVot5DMbDeiz6
-
- gallery marketing. 
-
-https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8 
-
-Example House.. 
-
-https://maps.app.goo.gl/bTpMSnyy1usGwDMX6 
----
-
- **Agent contact** 
+ **AGENT CONTACT** 
 
 Engkos
  contact / WhatsApp: 089685224968
@@ -92,7 +77,21 @@ Engkos
 https://take.app/id/gallerycreators 
 --- 
 
-Thank you 🙏...
+
+**MAPS & EXSAMPLE PROJECT** 
+
+**The Emeralda Resort**
+ https://maps.app.goo.gl/wBnheVot5DMbDeiz6
+
+ **gallery marketing**
+
+https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8 
+
+**Example House**
+
+https://maps.app.goo.gl/bTpMSnyy1usGwDMX6 
+---
+Thank you 🙏...BYE!...
  ---
 
 **Brief portfolio for the Emeralda resort Real estate Services**
