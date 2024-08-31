@@ -23,26 +23,26 @@ resmi,konsultasi sertifikat,layanan,benefit,lokasi,dll,arsitekture,productaktifi
 ---
 
 
-**Product**
+- **Product**
 
 Cluster:
 Kingston Park,Janet park,Beryl park,Royal park,kavling.
 ---
-**Layanan**
+- **Layanan**
 
 konsultasi pemesanan, unit,ketersedian product,promo,lokasi,sarana,Harga perunit.
 ---
-**sarana**
+- **sarana**
 
 **|| akses lokasi ||area strategis || CCTV, 1×24 Jam || area hijau || Jogging Track || Mushola || cargging stasiin car || water world || swimming area || mall ||**
 ---
-**Cabang**
+- **Cabang**
 
 - Padalarang 
 - kertajati
 - jatihandap
 ---
-**Fasilitas**
+- **Fasilitas**
 
 Gallery marketing The Emeralda Resort
 - layanan konsumen,
@@ -50,7 +50,7 @@ Gallery marketing The Emeralda Resort
 - Gathering
 - Benefit
 ---
-**mapp & exsample**
+- **mapp & exsample**
 
 The Emeralda Resort.
 https://maps.app.goo.gl/wBnheVot5DMbDeiz6
@@ -75,7 +75,7 @@ https://take.app/id/gallerycreators
 
 ---
 
-Terima kasih 🙏...
+- Terima kasih 🙏...
 
 **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
 ---
