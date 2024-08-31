@@ -39,7 +39,7 @@ konsultasi pemesanan, unit,ketersedian product,promo,lokasi,sarana,Harga perunit
 
 **|| akses lokasi ||area strategis || CCTV, 1×24 Jam || area hijau || Jogging Track || Mushola || cargging stasiin car || water world || swimming area || mall ||**
 ---
-- **Cabang**
+**Cabang**
 
 - Padalarang 
 - kertajati
