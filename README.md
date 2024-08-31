@@ -39,8 +39,8 @@ consultation on orders, units, product availability, promotions, location, facil
 
 **means** 
 
-**|| location access ||strategic area || CCTV, 1×24 Hours || green area || Jogging Track || Prayer room || Cargging car station || waterworld || swimming area || mall ||
-** 
+|| location access ||strategic area || CCTV, 1×24 Hours || green area || Jogging Track || Prayer room || Cargging car station || waterworld || swimming area || mall ||
+
 
 
 
