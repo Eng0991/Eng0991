@@ -1,4 +1,4 @@
-
+Lo
 
 
 **ENGKOS THE EMERALDA RESORT**
@@ -77,7 +77,7 @@ https://take.app/id/gallerycreators
 
 - Terima kasih 🙏...
 
-**portopolio Singkat untuk Layanan Real estate the Emeralda resort**
+- **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
 ---
 
 
