@@ -49,7 +49,15 @@ Gathering
 Benefit
 
 **mapp**
+
+The Emeralda Resort.
 https://maps.app.goo.gl/wBnheVot5DMbDeiz6
+
+gallery marketing.
+https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8
+
+Rumah Contoh..
+https://maps.app.goo.gl/bTpMSnyy1usGwDMX6
 
 **Kontak agent**
 
