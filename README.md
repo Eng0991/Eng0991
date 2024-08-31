@@ -45,7 +45,7 @@ konsultasi pemesanan, unit,ketersedian product,promo,lokasi,sarana,Harga perunit
 - kertajati
 - jatihandap
 ---
-- **Fasilitas**
+ **Fasilitas**
 
 Gallery marketing The Emeralda Resort
 - layanan konsumen,
@@ -53,7 +53,7 @@ Gallery marketing The Emeralda Resort
 - Gathering
 - Benefit
 ---
-- **mapp & exsample**
+.**mapp & exsample**
 
 The Emeralda Resort.
 https://maps.app.goo.gl/wBnheVot5DMbDeiz6
@@ -64,13 +64,13 @@ https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8
 Rumah Contoh..
 https://maps.app.goo.gl/bTpMSnyy1usGwDMX6
 ---
-**Kontak agent**
+ **Kontak agent**
 
 Engkos 
 kontak / Whatsaap : 089685224968
 
 
-**infomasi Lain**
+ **infomasi Lain**
 
 **kilk tautan dibawah ini**
 
@@ -78,9 +78,9 @@ https://take.app/id/gallerycreators
 
 ---
 
-- Terima kasih 🙏...
+ Terima kasih 🙏...
 
-- **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
+ **portopolio Singkat untuk Layanan Real estate the Emeralda resort**
 - oleh: Engkos 
 ---
 
