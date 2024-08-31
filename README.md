@@ -27,27 +27,22 @@ Brief Bio Data about the company and services of The Emeralda Resort Real Estate
  ---
   
 
-**Product**
+**PRODUCT**
 
  Clusters: Kingston Park, Janet park, Beryl park, Royal park, plots.
 ---
  
-- **Service** 
+- **SERVICE* 
 
 consultation on orders, units, product availability, promotions, location, facilities, price per unit. 
 --- 
 
-**means** 
+**MEANS** 
 
-|| location access ||strategic area || CCTV, 1×24 Hours || green area || Jogging Track || Prayer room || Cargging car station || waterworld || swimming area || mall ||
-
-
-
-
-
-
-
+|| LOCATION SRATEGICE || GALLERY MARKETING || CCTV 1×24 JAM || GREEND AREA || JOGGING TRACK ||NEAR IKEA || CHARGING CAR STATION || WATER WORLD || SWIMMING AREA|| NEAR MALL ||MUSHOLA ||
 ---
+
+
  **Branch**
 
  - Padalarang 
@@ -94,7 +89,7 @@ https://maps.app.goo.gl/bTpMSnyy1usGwDMX6
 Thank you 🙏...BYE!...
  ---
 
-**Brief portfolio for the Emeralda resort Real estate Services**
+<h6>Brief portfolio for the Emeralda resort Real estate Services</h6>
 by: Engkos
  ---
 
