@@ -1,6 +1,7 @@
   REAL ESTARE COUNSULTANT
 ---
- **PROFIL: ENGKOS THE EMERALDA RESORT**
+ **PROFIL:**
+**ENGKOS THE EMERALDA RESORT**
  <h5>Real estate consultant<h/h5>
 
 --- 
