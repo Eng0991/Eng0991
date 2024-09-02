@@ -5,7 +5,9 @@
  <h5>Real estate consultant<h/h5>
 
 --- 
--  🌱 Hey...everyone introduce the name Engkos. I am a Python and Jango programmer with a Pass Certificate. 4/April/2024. - 🎯. I work with Yanproland Developer The Emeralda Resort, offering real estate products throughout Greater Bandung. My Vision and Mission Helping customers in the process of home ownership in the process of verification, confirmation, negotiation and consultation,
+-  🌱 Hey...everyone introduce the name Engkos. I am a Python and Jango programmer with a Pass Certificate. 4/April/2024.
+
+ - 🎯. I work with Yanproland Developer The Emeralda Resort, offering real estate products throughout Greater Bandung. My Vision and Mission Helping customers in the process of home ownership in the process of verification, confirmation, negotiation and consultation,
 **ADDRESS**
 
  : Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.
