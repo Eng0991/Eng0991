@@ -57,7 +57,7 @@ consultation on orders, units, product availability, promotions, location, facil
 **MEANS** 
 ---
 
-|| LOCATION SRATEGICE || GALLERY MARKETING || CCTV 1×24 JAM || GREEND AREA || JOGGING TRACK ||NEAR IKEA || CHARGING CAR STATION || WATER WORLD || SWIMMING AREA|| NEAR MALL ||MUSHOLA ||
+|| LOCATION SRATEGICE || GALLERY MARKETING || CCTV 1×24 JAM || GREEND AREA || JOGGING TRACK ||NEAR IKEA || CHARGING CAR STATION || WATER WORLD || SWIMMING AREA|| NEAR MALL ||MUSHOLA || Near 5 minutes IKEA Parahiyangan || Near 5  minutes Tol Padalarang || Near Hospitaly Kawaluyaan || Near 5 minutes Jogja jungtion Mall ||
 ---
 
 ---
