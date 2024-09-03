@@ -1,4 +1,4 @@
-oo  REAL ESTARE COUNSULTANT
+👀 REAL ESTARE COUNSULTANT
 ---
  **PROFIL:**
 **ENGKOS THE EMERALDA RESORT**
@@ -7,7 +7,10 @@ oo  REAL ESTARE COUNSULTANT
 --- 
 -  🌱 Hey...everyone introduce the name Engkos. I am a Python and Jango programmer with a Pass Certificate. 4/April/2024.
 
- - 🎯. I work with Yanproland Developer The Emeralda Resort, offering real estate products throughout Greater Bandung. My Vision and Mission Helping customers in the process of home ownership in the process of verification, confirmation, negotiation and consultation,
+ - 🎯 I work with Yanproland Developer **The Emeralda Resort**, offering real estate products throughout Greater Bandung. My Vision and Mission Helping customers in the process of home ownership in the process of verification, confirmation, negotiation and consultation,
+
+-  my Email : Galleryvistalogin@gamil.com
+            : or ek619204@gamail.com
 
 
 ---
