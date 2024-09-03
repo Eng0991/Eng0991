@@ -29,7 +29,7 @@ digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto 
 When I come across a service in the broad concept of a method or means or delivery medium, most people prefer delivery methods that are practical and easy to find for the delivery media, such as ads in marketing management. Where is my aim and objective in using the delivery method so that it is easy to visit? in search engines, by making this short article, so that it can be easily found by everyone who is looking for and considering the Real Estate product they are looking for or my profile. 
 --- 
 
-<h4>Brief Bio Data about the company and services of The Emeralda Resort Real Estate Local Bandung Raya for Negotiations, Confirmations and Consultations.</h4>
+<h3>Brief Bio Data about the company and services of The Emeralda Resort Real Estate Local Bandung Raya for Negotiations, Confirmations and Consultations.</h3>
 
 ---
 
