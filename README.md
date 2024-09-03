@@ -1,4 +1,4 @@
-  REAL ESTARE COUNSULTANT
+oo  REAL ESTARE COUNSULTANT
 ---
  **PROFIL:**
 **ENGKOS THE EMERALDA RESORT**
@@ -44,7 +44,7 @@ When I come across a service in the broad concept of a method or means or delive
 ---
 
 ---
-**SERVICE* 
+**SERVICE**
 ---
 
 consultation on orders, units, product availability, promotions, location, facilities, price per unit. 
