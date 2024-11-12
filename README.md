@@ -44,7 +44,7 @@ ADDRESS
    
    Of course it is very important and must be prioritized in the world of real estate for some needs for standard suitability of facilities and services, such as real estate consultants, marketing agents/sales, with information communication processes that provide company news official, certificate consultation, services, benefits, location, etc., architecture, product field activities or civil engineering and building activities, marketing administration so that a service for each customer can be confirmed simultaneously, or more quickly and not queue at one point.
    
-   Of course the development of this service plays a very important role so that the residential home ownership process services are in line with the target market, and customer satisfaction is a very high priority</h5>
+ <h>Of course the development of this service plays a very important role so that the residential home ownership process services are in line with the target market, and customer satisfaction is a very high priority</h5>
  ---
   
 ---
@@ -54,7 +54,7 @@ ADDRESS
  <h5>Clusters: Kingston Park, Janet park, Beryl park, Royal park, plots.</h5>
 ---
 
----
+
 **SERVICE**
 ---
 
