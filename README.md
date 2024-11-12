@@ -17,14 +17,14 @@
 ADDRESS
 ---
 
-<h5>Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.</h5>
+<h5>🏘️ Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.</h5>
  --- 
 
 ---
 **SKILLS:** 
 ---
 
-<h5>digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games.</h5>
+⭐⭐⭐<h5>digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games.</h5>
 --- 
 ---
 **ABOUT THE OTHERS:** 
