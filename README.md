@@ -115,9 +115,9 @@ Marketing gallery for The Emeralda Resort
 
 ---
  **Gallery marketing**
----
-<h>https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8</h5>
----
+
+<h>https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8 </h5>
+
 **Example House**
 ---
 <h5>https://maps.app.goo.gl/bTpMSnyy1usGwDMX6</h5>
