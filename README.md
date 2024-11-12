@@ -17,7 +17,7 @@
 ADDRESS
 ---
 
-Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.
+<h5>Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.</h5>
  --- 
 
 ---
