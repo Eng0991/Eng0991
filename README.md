@@ -104,6 +104,7 @@ Marketing gallery for The Emeralda Resort
  <h5>Click the link below</h5>
 
 [Kontak WhatsApp](https://take.app/id/gallerycreators)
+
 --- 
 
 ---
@@ -112,16 +113,22 @@ Marketing gallery for The Emeralda Resort
 
 **The Emeralda Resort**
 --- 
-[Maps](https://maps.app.goo.gl/wBnheVot5DMbDeiz6)
+
+👉 [Maps](https://maps.app.goo.gl/wBnheVot5DMbDeiz6)
 
 ---
  **Gallery marketing**
 
-[Maps](https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8)
+
+👉 [Maps](https://maps.app.goo.gl/Bswm7SmvrQgZYv4m8)
+
 
 **Example House**
 ---
-[Maps](https://maps.app.goo.gl/bTpMSnyy1usGwDMX6)
+
+
+👉 [Maps](https://maps.app.goo.gl/bTpMSnyy1usGwDMX6)
+
 ---
 Thank you 🙏...BYE!...
 ---
