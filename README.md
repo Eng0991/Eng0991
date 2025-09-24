@@ -1,10 +1,13 @@
 Marc koswara 👀 REAL ESTATE 
+
 ---
+
  **PROFIL:**
 **ENGKOS THE EMERALDA RESORT**
  <h5>Real estate consultant<h/h5>
 
 --- 
+
 -  🌱 Hey...everyone introduce the name Engkos. I am a Python and Jango programmer with a Pass Certificate. 4/April/2024.
 
  - 🎯 I work with Yanproland Developer **The Emeralda Resort**, offering real estate products throughout Greater Bandung. My Vision and Mission Helping customers in the process of home ownership in the process of verification, confirmation, negotiation and consultation,
@@ -25,18 +28,23 @@ ADDRESS
 ---
 
 ⭐⭐⭐<h5>digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games.</h5>
+
 --- 
 ---
+
 **ABOUT THE OTHERS:** 
+
 ---
+
 <h5>When I come across a service in the broad concept of a method or means or delivery medium, most people prefer delivery methods that are practical and easy to find for the delivery media, such as ads in marketing management.
  
   <h5> Where is my aim and objective in using the delivery method so that it is easy to visit? in search engines, by making this short article, so that it can be easily found by everyone who is looking for and considering the Real Estate product they are looking for or my profile.</h5>
+
 --- 
 
 <h5>Brief Bio Data about the company and services of The Emeralda Resort Real Estate Local Bandung Raya for Negotiations, Confirmations and Consultations.</h5>
 
----
+
 
  <h5>The Emeralda resort is a real estate product, which is the name for a real estate area in Bandung, which has branches or locations in almost every corner of Bandung, 
   
