@@ -17,19 +17,25 @@ Marc koswara 👀 REAL ESTATE
 
 
 ---
+
 ADDRESS
+
 ---
 
 <h5>🏘️ Jl. Tipar Barat Rt. 03/14 Village. Laksamekar. District: Padalarang. Regency: West Bandung. Postal code: 40553. Province: West Java. Indonesia.</h5>
- --- 
+
+--- 
 
 ---
+
 **SKILLS:** 
+
 ---
 
 ⭐⭐⭐<h5>digital marketing, Copywriting, Ms. Office, Graphic design, Web developer, Auto CAD. CANVA, games.</h5>
 
 --- 
+
 ---
 
 **ABOUT THE OTHERS:** 
@@ -56,57 +62,85 @@ ADDRESS
  
   
 ---
+
 **PRODUCT**
+
 ---
 
  <h5>Clusters: Kingston Park, Janet park, Beryl park, Royal park, plots.</h5>
+
 ---
 
 
 **SERVICE**
+
 ---
 
 <h5>consultation on orders, units, product availability, promotions, location, facilities, price per unit.</h5>
+
 --- 
 
 ---
+
 **MEANS** 
+
 ---
 
 <h5>|| LOCATION SRATEGICE || GALLERY MARKETING || CCTV 1×24 JAM || GREEND AREA || JOGGING TRACK ||NEAR IKEA || CHARGING CAR STATION || WATER WORLD || SWIMMING AREA|| NEAR MALL ||MUSHOLA || Near 5 minutes IKEA Parahiyangan || Near 5  minutes Tol Padalarang || Near Hospitaly Kawaluyaan || Near 5 minutes Jogja jungtion Mall ||</h5>
+
 ---
 
 ---
+
  **BRANDS**
+
 ---
 
  - Padalarang 
 - kertajati
  - jatihandap 
+
 --- 
 
 ---
+
 **FASILLITY** 
+
 ---
 
 Marketing gallery for The Emeralda Resort
+
 ---
+
  - Consumer service,
+
 ---
+
 - Lacation survey
+
 ---
+
  - Gatherings
+
 ---
+
  - Benefits 
+
 ---  
 
 ---
+
  **AGENT CONTACT** 
+
 ---
+
 ---
+
 <h5>Engkos
  Contact / WhatsApp: 089685224968</h5>
+
 ---
+
  <h5>Other information</h5>
 
  <h5>Click the link below</h5>
@@ -116,10 +150,13 @@ Marketing gallery for The Emeralda Resort
 --- 
 
 ---
+
 **MAPS & EXSAMPLE PROJECT** 
+
 ---
 
 **The Emeralda Resort**
+
 --- 
 
 👉 [Maps](https://maps.app.goo.gl/wBnheVot5DMbDeiz6)
@@ -140,7 +177,9 @@ Marketing gallery for The Emeralda Resort
 👉 [Maps](https://maps.app.goo.gl/bTpMSnyy1usGwDMX6)
 
 ---
+
 Thank you 🙏...BYE!...
+
 ---
 
 <h5>Brief portfolio for the Emeralda resort Real estate Services
