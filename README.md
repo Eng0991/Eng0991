@@ -117,6 +117,7 @@ Marketing gallery for The Emeralda Resort
 👉 [Maps](https://maps.app.goo.gl/wBnheVot5DMbDeiz6)
 
 ---
+
  **Gallery marketing**
 
 
@@ -124,6 +125,7 @@ Marketing gallery for The Emeralda Resort
 
 
 **Example House**
+
 ---
 
 
@@ -135,7 +137,8 @@ Thank you 🙏...BYE!...
 
 <h5>Brief portfolio for the Emeralda resort Real estate Services
 by: Engkos</h5>
- ---
+
+---
 
 
 
